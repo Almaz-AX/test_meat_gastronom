@@ -1,3 +1,5 @@
 # test_meat_gastronom
 
-A new Flutter project.
+
+https://github.com/user-attachments/assets/dd26109c-c193-4fde-8879-63e11668ba53
+
